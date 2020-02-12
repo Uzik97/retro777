@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.2</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>28</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>fgh</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>768</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/ionosphere/</ImageTemplate>
+            <ImageTemplateName>Ionosphere</ImageTemplateName>
+            <ImageWidth>1024</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/User/Desktop/retro/readme.html</PublishFileName>
+            <PublishIndex>readme.html</PublishIndex>
+            <PublishPath>C:/Users/User/Desktop/retro</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Oswald</TemplateFont>
+            <TemplateName>ionosphere</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Downloads/c25f989f604bc8db78713795cbb9c668.jpg</url>
+                <title>c25f989f604bc8db78713795cbb9c668</title>
+                <filesize>37348</filesize>
+            </Image>
+            <Image>
+                <url>C:/Downloads/2d5e0883214d3944fc5652c6ed01445a.jpg</url>
+                <title>2d5e0883214d3944fc5652c6ed01445a</title>
+                <filesize>19398</filesize>
+            </Image>
+            <Image>
+                <url>C:/Downloads/801f9c78673b95a848596c3cd45089c8.jpg</url>
+                <title>801f9c78673b95a848596c3cd45089c8</title>
+                <filesize>39456</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

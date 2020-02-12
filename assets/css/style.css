@@ -1,0 +1,146 @@
+@font-face{
+	font-family: 'Bazar';
+	src:url("../../Bazar.ttf");
+}
+body {
+	font-family: 'Bazar', sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+	color: #DAA520;
+		}
+@font-face{
+	font-family: 'Oswald Regular';
+	src:url("../../Oswald-Regular.ttf");
+}
+body {
+	font-family: 'Oswald-Regular', sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+	color: #DAA520;
+		}
+@font-face{
+	font-family: 'Oswald Bold';
+	src:url("../../Oswald-Bold.ttf");
+}
+body {
+	font-family: 'Oswald-Bold', sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+	color: #DAA520;
+		}
+@font-face{
+	font-family: 'RobotoSlab';
+	src:url("../../RobotoSlab-Black.ttf");
+}
+
+body {
+	font-family: 'RobotoSlab', sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+	color: #DAA520;
+		}
+*,
+*:before,
+*:after {
+	-webkit-box-sizing:border-box;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin:0;
+}
+
+/*HEADER*/
+header {
+	min-height: 300px;
+}
+.fon{
+	background-image: url(../images/intro.jpg)
+}
+.logo {
+	margin-top: 10px;
+
+}
+
+.logo img {
+	height: 70px;
+}
+
+
+
+ul.menu-header {
+  margin-top: 30px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+ul.menu-header li {
+	padding: 10px 25px;
+	margin-right: 40px;
+}
+ul.menu-header li a {
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	transition: all .5s ease;
+	font-family: 'Bazar';
+}
+
+ul.menu-header li a:hover {
+	opacity: 0.5;
+}
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
+.body {
+	background-color:#e5e0d0;
+}
+.text {
+    text-align:  center;
+   }
+h1{
+	font-size: 500%;
+  }
+  span.oswald {
+  	font-family: 'Oswald Regular';
+  }
+  span.bazar {
+  	font-family: 'Bazar';
+  	font-size: 200%;
+  }
+  span.roboto {
+  	font-family: 'RobotoSlab';
+  	font-size: 100%;
+  }
+  hr {
+  	border:none;
+  	background-color: black;
+  	color: red;
+  	width: 40px;
+  	height: 2px;
+  }
+  p {
+  	color: black;
+  }
+.div {
+	background-color: #e28a68; 
+  }
+.about {
+	background-color: #e2dfdd ;
+}
+span.bold {
+  	font-family: 'Oswald-Bold';
+  	font-size: 100%;
+  }
+ .vlad {
+ 	background-color: #4a4e55 ;
+ }
+ 
+
+
+
+  
